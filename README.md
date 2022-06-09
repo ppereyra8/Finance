@@ -4,7 +4,7 @@ Proyecto FINANCE creado para ayudar a administrar y llevar un control de sus ing
 
 # Anteproyecto
 
-El anteproyecto está definido en este [documento](https://https://docs.google.com/document/d/13PYKeKRLKik7DSe0iDLbBcCLMzhomkcN)
+El anteproyecto está definido en este [documento](https://docs.google.com/document/d/13PYKeKRLKik7DSe0iDLbBcCLMzhomkcN/edit?usp=sharing&ouid=115515299461960092919&rtpof=true&sd=true)
 
 # Mockups
 
