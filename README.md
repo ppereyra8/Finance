@@ -8,7 +8,7 @@ El anteproyecto está definido en este [documento](https://docs.google.com/docum
 
 # Mockups
 
-En la carpeta [`mockups`](/mockups/) se encuentran los mockups de la app.
+En la carpeta [`mockups`](/Mockups/) se encuentran los mockups de la plataforma.
 
 # Historias de Usuario
 
